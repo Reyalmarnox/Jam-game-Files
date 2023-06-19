@@ -109,13 +109,13 @@ Library: lib_burst_generated
 --compilation-defines=ENABLE_TIMELINE
 --compilation-defines=ENABLE_LEGACY_INPUT_MANAGER
 --compilation-defines=TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
+--compilation-defines=CSHARP_7_OR_LATER
+--compilation-defines=CSHARP_7_3_OR_NEWER
 --compilation-defines=PACKAGE_PHYSICS
 --compilation-defines=PACKAGE_PHYSICS2D
 --compilation-defines=PACKAGE_TILEMAP
 --compilation-defines=PACKAGE_ANIMATION
 --compilation-defines=PACKAGE_UITOOLKIT
---compilation-defines=CSHARP_7_OR_LATER
---compilation-defines=CSHARP_7_3_OR_NEWER
 --compilation-defines=MODULE_AI_EXISTS
 --compilation-defines=MODULE_ANIMATION_EXISTS
 --compilation-defines=MODULE_PHYSICS_EXISTS
@@ -127,6 +127,7 @@ Library: lib_burst_generated
 --linker-options=PdbAltPath="Jam game_Data/Plugins/x86_64"
 --generate-link-xml=Temp\burst.link.xml
 --output=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+--root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\lootlocker.lootlockersdk.runtime.dll
 --root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
 --root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Unity.VisualScripting.Flow.dll
 --root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Unity.Mathematics.dll
@@ -135,6 +136,7 @@ Library: lib_burst_generated
 --root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Unity.Burst.dll
 --root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Unity.2D.Animation.Runtime.dll
 --root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Unity.TextMeshPro.dll
+--root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Unity.Timeline.dll
 --root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
 --root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Unity.2D.PixelPerfect.dll
@@ -142,7 +144,6 @@ Library: lib_burst_generated
 --root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Unity.2D.IK.Runtime.dll
 --root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Unity.2D.Tilemap.Extras.dll
 --root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
---root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --assembly-folder=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\
 --pdb-search-paths=Temp/ManagedSymbols/
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
@@ -260,13 +261,13 @@ Library: lib_burst_generated
 --compilation-defines=ENABLE_TIMELINE
 --compilation-defines=ENABLE_LEGACY_INPUT_MANAGER
 --compilation-defines=TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
+--compilation-defines=CSHARP_7_OR_LATER
+--compilation-defines=CSHARP_7_3_OR_NEWER
 --compilation-defines=PACKAGE_PHYSICS
 --compilation-defines=PACKAGE_PHYSICS2D
 --compilation-defines=PACKAGE_TILEMAP
 --compilation-defines=PACKAGE_ANIMATION
 --compilation-defines=PACKAGE_UITOOLKIT
---compilation-defines=CSHARP_7_OR_LATER
---compilation-defines=CSHARP_7_3_OR_NEWER
 --compilation-defines=MODULE_AI_EXISTS
 --compilation-defines=MODULE_ANIMATION_EXISTS
 --compilation-defines=MODULE_PHYSICS_EXISTS
@@ -278,6 +279,7 @@ Library: lib_burst_generated
 --linker-options=PdbAltPath="Jam game_Data/Plugins/x86_64"
 --generate-link-xml=Temp\burst.link.xml
 --output=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+--root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\lootlocker.lootlockersdk.runtime.dll
 --root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
 --root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Unity.VisualScripting.Flow.dll
 --root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Unity.Mathematics.dll
@@ -286,6 +288,7 @@ Library: lib_burst_generated
 --root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Unity.Burst.dll
 --root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Unity.2D.Animation.Runtime.dll
 --root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Unity.TextMeshPro.dll
+--root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Unity.Timeline.dll
 --root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
 --root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Unity.2D.PixelPerfect.dll
@@ -293,7 +296,6 @@ Library: lib_burst_generated
 --root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Unity.2D.IK.Runtime.dll
 --root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Unity.2D.Tilemap.Extras.dll
 --root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Unity.InternalAPIEngineBridge.001.dll
---root-assembly=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
 --assembly-folder=D:\My Other Projects\Game Jam projects\ssjam 26\Project\Jam-game\Jam game\Temp\StagingArea\Data\Managed\
 --pdb-search-paths=Temp/ManagedSymbols/
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
